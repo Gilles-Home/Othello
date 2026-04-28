@@ -3,6 +3,7 @@ from ui import MainWindow
 import sys
 
 # Commentaire
+# Commentaire 2
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
